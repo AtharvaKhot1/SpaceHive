@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Peerspace Clone
 
 A modern, responsive clone of the Peerspace website built with Next.js, React, and Tailwind CSS.
@@ -146,3 +147,7 @@ This project is for educational purposes only. Peerspace is a registered tradema
 - Design inspired by [Peerspace](https://www.peerspace.com/)
 - Images from [Unsplash](https://unsplash.com/)
 - Icons from [Lucide React](https://lucide.dev/) 
+=======
+# SpaceHive
+A website to book workshop/meeting rooms or an event for short-term use.
+>>>>>>> 9394fb355a58753c2e6e35212d53a413d42f28a3
